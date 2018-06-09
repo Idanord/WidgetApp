@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">WidgetApp</string>
+    <string name="textView">This is a test for widget app</string>
+</resources>
